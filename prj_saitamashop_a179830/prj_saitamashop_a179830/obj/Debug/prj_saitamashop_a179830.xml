@@ -1,0 +1,126 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prj_saitamashop_a179830
+</name>
+</assembly>
+<members>
+<member name="T:prj_saitamashop_a179830.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources._2947568">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources._92_929835_gym_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.dumbbell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.free_beautiful_hi_res_wood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_122">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.Gym_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gYM_BACK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.GYM_LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_LOGO_222">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_LOGO_222_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym_LOGO_222_removebg_preview__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gym4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.Gym5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gymbesi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gyminvois">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prj_saitamashop_a179830.My.Resources.Resources.gymsplash2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

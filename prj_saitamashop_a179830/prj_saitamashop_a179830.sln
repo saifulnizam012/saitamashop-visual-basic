@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_saitamashop_a179830", "prj_saitamashop_a179830\prj_saitamashop_a179830.vbproj", "{5635C97C-9C57-4B7A-90C7-D4C7F612D2A0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Saitama_Shop", "Setup_Saitama_Shop\Setup_Saitama_Shop.vdproj", "{4CD08278-E5CA-443F-80AC-433AEC20E40B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5635C97C-9C57-4B7A-90C7-D4C7F612D2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5635C97C-9C57-4B7A-90C7-D4C7F612D2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5635C97C-9C57-4B7A-90C7-D4C7F612D2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5635C97C-9C57-4B7A-90C7-D4C7F612D2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD08278-E5CA-443F-80AC-433AEC20E40B}.Debug|Any CPU.ActiveCfg = Debug
+		{4CD08278-E5CA-443F-80AC-433AEC20E40B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCFF238-62B2-40DC-881B-9F544EE41FF0}
+	EndGlobalSection
+EndGlobal
